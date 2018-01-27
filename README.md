@@ -9,7 +9,7 @@ across the Atlantic. Having a 6 day passage to the Azores from Florida, I was wa
 You'll have to excuse the terrible code here... at this point I've moved into being a chief meeting taker for the past 3 years or so and haven't really
 coded in about that long.
 
-So here's the result... A script which will pull all the text and images from each blog- minus (page 10)[#what-about-page-10]  - and throws it in a PDF.
+So here's the result... A script which will pull all the text and images from each blog- minus [page 10](#what-about-page-10)  - and throws it in a PDF.
 Why? Well I didn't want to print a bunch of stuff I didn't have to.
 
 ## Running this thing
