@@ -9,6 +9,7 @@ BASE_URL = 'https://svdelos.com/travel-blogs/page/PAGE/?order=ASC'
 PAGE_URL= 'https://svdelos.com/travel-blogs/fixing-stuff-remote-places-brian/'
 FILE = 'delos-blogs.pdf'
 IMAGE_SCALE= 0.5
+FONT_PATH = './OpenSans-Regular.ttf'
 
 def crawl_article url
   page = Nokogiri::HTML(open(url))
@@ -26,6 +27,7 @@ end
 
 def create_pdf data
   Prawn::Document.generate(FILE) do
+  font FONT_PATH
     data.each do |p|
       text p[0] 
       text p[1]
