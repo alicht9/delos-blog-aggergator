@@ -6,7 +6,7 @@ full time cruising lifestyle. The idea for this was sparked by a vacation that I
 across the Atlantic. Having a 6 day passage to the Azores from Florida, I was wanting to catch up on the Delos blog.
 
   Unfortunatly I suck at reading things on the computer or tablet. I'm old school and like things on paper. Thus this hacky script.
-You'll have to excuse the terrible code here... at this point I've moved into managment for the past 3 years or so and haven't really
+You'll have to excuse the terrible code here... at this point I've moved into being a chief meeting taker for the past 3 years or so and haven't really
 coded in about that long.
 
 So here's the result... A script which will pull all the text and images from each blog (minus page 10) and throws it in a PDF.
@@ -25,6 +25,6 @@ Why? Well I didn't want to print a bunch of stuff I didn't have to.
   I've shot Delos an email about this one and hacked around it for now by switching the sort order. But alas... pour one out for page 10
   
 ## What else?
-  /shrug... Don't know... late for the bar. Feel free to contributor whatever.
+  Don't know... late for the bar. Feel free to contributor whatever.
   
   Fair winds and following seas!
