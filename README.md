@@ -1,4 +1,4 @@
-# Delos Blog Aggergator
+# Delos Blog Aggregator
 Welcome!
 ## Premise
   Hi - I'm Adam, a long time member of the Delos Tribe. I, like many of you reading this have a dream of transitioning to a
