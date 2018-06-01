@@ -25,6 +25,6 @@ Why? Well I didn't want to print a bunch of stuff I didn't have to.
   I've shot Delos an email about this one and hacked around it for now by switching the sort order. But alas... pour one out for page 10
   
 ## What else?
-  Don't know... late for the bar. Feel free to contributor whatever.
+  Don't know... late for the bar. Feel free to contribute whatever.
   
   Fair winds and following seas!
